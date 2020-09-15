@@ -3,7 +3,7 @@ For this application, I've use Spotify's.
 
 <div>
 <a href="url"><img src="./starting-page.png" width="200"></a>
-<a href="url"><img src="./about-pag.png" width="200"></a>
+<a href="url"><img src="./about-page.png" width="200"></a>
 <a href="url"><img src="./categories.png" width="200"></a>
 <a href="url"><img src="./category-selected.png" width="200"></a>
 <a href="url"><img src="./login.png" width="200"></a>
