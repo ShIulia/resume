@@ -15,3 +15,6 @@ Also provides information about a product such as rating, location and so on.
 <div>
 <a href="url"><img src="./product-page.png" width="200"></a>
 </div>
+
+
+Link to source code: closed source.
