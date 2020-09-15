@@ -1,9 +1,9 @@
-### Project description:
+### Project description
 *mproducts* is a mobile application, developed with React Native.
 It manages products and allows the user to buy one or more products.
 Also provides information about a product such as rating, location and so on.
 
-### Contribution:
+### Contribution
 Worked on all UI components.
 
 <div>
@@ -23,5 +23,5 @@ Worked on all UI components.
 </div>
 
 
-### Link to source code: 
-closed source.
+### Link to source code
+Closed source.
