@@ -1,5 +1,5 @@
 *myspotify* is an app I've developed as an exercise to learn how to use an API.
-For this application, I've use Spotify's.
+For this application, I've use Spotify's API.
 
 <div>
 <a href="url"><img src="./starting-page.png" width="200"></a>
