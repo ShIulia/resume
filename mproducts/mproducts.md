@@ -4,7 +4,7 @@
 <a href="url"><img src="./homepage.png" width="200"></a>
 </div>
 
-It manages products and allows for the client to buy one or more products.
+It manages products and allows the user to buy one or more products.
 
 <div>
 <a href="url"><img src="./product-addToBasket.png" width="200"></a>
