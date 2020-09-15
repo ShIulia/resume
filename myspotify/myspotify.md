@@ -1,5 +1,6 @@
-*myspotify* is an app I've developed as an exercise to learn how to use an API.
-For this application, I've use Spotify's API.
+Project description: Application for listening music, using Spotify's API.
+
+Contribution: Developed the app.
 
 <div>
 <a href="url"><img src="./starting-page.png" width="400"></a>
