@@ -1,8 +1,9 @@
-### Project description: 
+### Project description
 Event trading platform. 
 Scrapes event data to find show availability and allows making placements on secondary market places.
 
-### Contribution: 
+### Contribution 
+Sole contributor.
 I worked on the UI components for making placements, showing venue data, placement reporting.
 
 <div>
@@ -16,5 +17,5 @@ I worked on the UI components for making placements, showing venue data, placeme
 </div>
 
 
-### Link to source code: 
-closed source.
+### Link to source code 
+Closed source.
