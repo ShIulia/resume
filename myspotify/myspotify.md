@@ -1,7 +1,7 @@
-### Project description: 
+### Project description
 Graduation project developed as part of the IT course.
 
-### Contribution: 
+### Contribution 
 Developed the app.
 
 <div>
@@ -14,5 +14,5 @@ Developed the app.
 </div>
 
 
-### Link to source code: 
+### Link to source code 
 https://github.com/ShIulia/myspotify.
