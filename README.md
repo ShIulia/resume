@@ -1,6 +1,6 @@
 # Projects
 
-  * [mproducts](./mproducts)
+  * [mproducts](./mproducts/mproducts.md)
   * [TicketBash](./ticketbash)
 
  
