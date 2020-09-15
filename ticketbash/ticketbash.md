@@ -4,7 +4,7 @@ Scrapes event data to find show availability and allows making placements on sec
 Contribution: I worked on the UI components for making placements, showing venue data, placement reporting.
 
 <div>
-<a href="url"><img src="./HighRiskOpportunities.png" width="200"></a>
+<a href="url"><img src="./HighRiskOpportunities.jpeg" width="200"></a>
 <a href="url"><img src="./Inventory Placement Form.png" width="200"></a>
 <a href="url"><img src="./OportunitiesTable-closed.png" width="200"></a>
 <a href="url"><img src="./OportunitiesTable-expanded.png" width="200"></a>
@@ -12,3 +12,6 @@ Contribution: I worked on the UI components for making placements, showing venue
 <a href="url"><img src="./Selected Events.png" width="200"></a>
 <a href="url"><img src="./Venues-table.png" width="200"></a>
 </div>
+
+
+Link to source code: closed source.
