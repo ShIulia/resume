@@ -1,6 +1,6 @@
-## Project description: Graduation project developed as part of the IT course.
+### Project description: Graduation project developed as part of the IT course.
 
-###Contribution: Developed the app.
+### Contribution: Developed the app.
 
 <div>
 <a href="url"><img src="./starting-page.png" width="400"></a>
@@ -12,4 +12,4 @@
 </div>
 
 
-###Link to source code: https://github.com/ShIulia/myspotify.
+### Link to source code: https://github.com/ShIulia/myspotify.
