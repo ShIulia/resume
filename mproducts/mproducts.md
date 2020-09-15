@@ -1,4 +1,8 @@
+### Project description:
 *mproducts* is a mobile application, developed with React Native.
+
+### Contribution:
+Worked on all UI components.
 
 <div>
 <a href="url"><img src="./homepage.png" width="200"></a>
@@ -17,4 +21,5 @@ Also provides information about a product such as rating, location and so on.
 </div>
 
 
-Link to source code: closed source.
+### Link to source code: 
+closed source.
