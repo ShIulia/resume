@@ -2,6 +2,6 @@
 
   * [mproducts](./mproducts/mproducts.md)
   * [TicketBash](./ticketbash/ticketbash.md)
-  * [myspotify](./myspotify)
+  * [myspotify](./https://github.com/ShIulia/myspotify)
 
  
