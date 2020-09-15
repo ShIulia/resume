@@ -1,4 +1,4 @@
-###Project description: Graduation project developed as part of the IT course.
+##Project description: Graduation project developed as part of the IT course.
 
 ###Contribution: Developed the app.
 
