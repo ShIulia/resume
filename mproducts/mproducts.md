@@ -4,6 +4,7 @@ It manages products and allows the user to buy one or more products.
 Also provides information about a product such as rating, location and so on.
 
 ### Contribution
+Sole contributor.
 Worked on all UI components.
 
 <div>
