@@ -1,5 +1,5 @@
 # Iulia Tamazlicariu
-* [Resume](http://ShIulia.github.io/resume/)
+* [Resume](http://ShIulia.github./resume/)
 * React Native work:
   * [mproducts](./mproducts)
  
